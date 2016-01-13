@@ -1,4 +1,4 @@
-panniculus
-==========
+panniculus (HardCode)
+=====================
 
-Teil des HardCode-Projekts
+Code snippet library. 
